@@ -9,7 +9,7 @@
 - ICora is a free Genshin Impact toolbox researched by XFP Group alone. And it strictly complies with the open source agreement
 - At present, it only supports the Chinese version of Genshin Impact(YuanShen), but we are developing it in the direction of many countries.
 # **What does it support?**
-- For example, injection of **plug-in Dll**, **Role data acquisition**, **Saving role accounts**, **Conversion server**, **Acquisition of prayer records**, etc
+- For example, injection of **plug-in Dll**, **Role data acquisition**, **Saving role accounts**, **Conversion server**, **Genshin Wish Export**, etc
 # **Does it free forever?** 
 - Yes, We will continue to provide its maintenance until the update of Genshin Impact stops.
 # **How do we get it?**
