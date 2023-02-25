@@ -2,18 +2,20 @@
 - Hi i am x3zF.. ❤
 - I am working hard to learn various programming languages 👀
 - You can visit my repositories my and my group's projecties is in there 🎁
-- I am one of the main developers of ICora. But only I uploaded the source code of ICora on Github.🎄
-- ❤ in https://github.com/GashByte/ICora ❤
-## ICora
-# **What's ICora?**
-- ICora is a free Genshin Impact toolbox researched by XFP Group alone. And it strictly complies with the open source agreement
-- At present, it only supports the Chinese version of Genshin Impact(YuanShen), but we are developing it in the direction of many countries.
-# **What does it support?**
-- For example, injection of **plug-in Dll**, **Role data acquisition**, **Saving role accounts**, **Conversion server**, **Genshin Wish Export**, etc
-# **Does it free forever?** 
-- Yes, We will continue to provide its maintenance until the update of Genshin Impact stops.
-# **How do we get it?**
-- Visit the official website or obtain the source code of ICora.
-- Official website: https://gashbyte.github.io/ICoraIndex .
-- Source Code repositories: https://github.com/GashByte/ICora .
-# ❤ We hop that ICora Toolbox can become a tool box you can't put down! ❤
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=GashByte&label=Profile%20views&color=1ea97f&style=flat" alt="GashByte" /></p>
+
+<h2 align="center">
+  Founder of
+  <a href="https://gashbyte.github.io/ICoraIndex/" target="blank">XFP-Studio</a>
+  Developer of 
+  <a href="https://bkebi-group.github.io/" target="blank">Chito-Group</a>
+  &
+  <a href="https://github.com/DGP-Studio/" target="blank">DGP-Studio</a>
+</h2>
+
+<br>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GashByte&theme=radical&mode=weekly" alt="GashByte" />
+<img align="center" src="https://github-readme-stats-git-master-revenger-a.vercel.app/api?username=GashByte&show_icons=true&theme=radical&count_private=true" alt=" GashByte" />
+<img align="center" src="https://github-readme-stats-git-master-revenger-a.vercel.app/api/top-langs?langs_count=6&username=Revenger-A&theme=radical&layout=compact&hide=css,html,javascript,ShaderLab,HLSL,Python&count_private=true" alt="GashByte" />
+<br>
