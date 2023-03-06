@@ -19,11 +19,19 @@
 <div>
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=GashByte&theme=radical&mode=weekly" alt="GashByte" />
 <img align="left" src="https://github-readme-stats-git-master-revenger-a.vercel.app/api?username=GashByte&show_icons=true&theme=radical&count_private=true" alt=" GashByte" />
+<img align="center" src="https://github-readme-stats-git-master-revenger-a.vercel.app/api/top-langs?langs_count=6&username=GashByte&theme=radical&layout=compact&hide=css,html,javascript,ShaderLab,HLSL,Python&count_private=true" />
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+  </div>
+  
+  - my repos! 🚀
+  
+  <div>
 <a href="https://github.com/GashByte/ICora">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=GashByte&repo=ICora&theme=dark&bg_color=121212&hide_border=true" /></a>
 <a href="https://github.com/DGP-Studio/Snap.Hutao">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=DGP-Studio&repo=Snap.Hutao&theme=dark&bg_color=121212&hide_border=true" /></a>
-<img align="center" height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GashByte&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=DGP-Studio&repo=Snap.Hutao&theme=dark&bg_color=121212&hide_border=true" />
+<a href="https://github.com/Bkebi-Group/Bkebi-GC-Release">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Bkebi-Group&repo=Bkebi-GC-Release&theme=dark&bg_color=121212&hide_border=true" /></a>
 <table align="center">
   <tr>
     <td><img src="https://github-readme-activity-graph.cyclic.app/graph?username=GashByte&theme=xcode&bg_color=FF000000&hide_border=true" alt="Activity"/></td>
