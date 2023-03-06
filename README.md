@@ -1,4 +1,4 @@
-<h1 align="center">x3zF Here!!👋</h1>
+![Header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&animation=fadeIn&section=header&text=x3zFLoveU&fontSize=65)
 
 - I am working hard to learn various programming languages 👀
 - You can visit my repositories my and my group's projecties is in there 🎁
