@@ -19,7 +19,7 @@
 <div>
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=GashByte&theme=radical&mode=weekly" alt="GashByte" />
 <img align="left" src="https://github-readme-stats-git-master-revenger-a.vercel.app/api?username=GashByte&show_icons=true&theme=radical&count_private=true" alt=" GashByte" />
-<img align="left" src="https://github-readme-stats-git-master-revenger-a.vercel.app/api/top-langs?langs_count=6&username=GashByte&theme=radical&layout=compact&hide=css,html,javascript,ShaderLab,HLSL,Python&count_private=true" />
+<img align="left" src="https://github-readme-stats-git-master-revenger-a.vercel.app/api/top-langs?langs_count=6&username=GashByte&theme=radical&layout=compact&count_private=true" />
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
   </div>
   
