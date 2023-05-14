@@ -4,6 +4,8 @@
 
 - I am working hard to learn various programming languages 👀
 - You can visit my repositories my and my group's projecties is in there 🎁
+- F** k! F** k!
+- I HATE RESOLVING THAOSE F** KING STUPID PROBLEMS!
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=GashByte&label=Profile%20views&color=1ea97f&style=flat" alt="GashByte" /></p>
 
