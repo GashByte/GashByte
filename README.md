@@ -10,12 +10,7 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=GashByte&label=Profile%20views&color=1ea97f&style=flat" alt="GashByte" /></p>
 
 <h2 align="center">
-  Founder of
-  <a href="https://gashbyte.github.io/ICoraIndex/" target="blank">XFP-Studio</a>
-  Developer of 
-  <a href="https://bkebi-group.github.io/" target="blank">Chito-Group</a>
-  &
-  <a href="https://github.com/DGP-Studio/" target="blank">DGP-Studio</a>
+  Self Developmenter..
 </h2>
 
 <div>
