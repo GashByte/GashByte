@@ -25,7 +25,6 @@
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=GashByte&repo=ICora&theme=dark&bg_color=121212&hide_border=true" /></a>
 <a href="https://github.com/DGP-Studio/Snap.Hutao">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=DGP-Studio&repo=Snap.Hutao&theme=dark&bg_color=121212&hide_border=true" />
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Bkebi-Group&repo=Bkebi-GC-Release&theme=dark&bg_color=121212&hide_border=true" /></a>
 <table align="center">
   <tr>
     <td><img src="https://github-readme-activity-graph.cyclic.app/graph?username=GashByte&theme=xcode&bg_color=FF000000&hide_border=true" alt="Activity"/></td>
