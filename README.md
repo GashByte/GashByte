@@ -10,7 +10,9 @@
 - 我还在努力的学习很多！
 
 ## 正在开发的项目
-- （暂时未提出）
+-  MeseO BeYo'nd (Website)
+-  SnowStormX
+-  MExtractor
 
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gashbyte&count_private=true"/>
