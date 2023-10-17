@@ -1,5 +1,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&animation=fadeIn&section=header&text=M2tua1&fontSize=65)
 
+**creater of the MeseOTech Co. Ltd.**
+
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
 - 哦嘿，我的朋友 ~~，不妨让一切重新开始吧？~~
@@ -10,7 +12,7 @@
 - 我还在努力的学习很多！
 
 ## 正在开发的项目
--  MeseO BeYo'nd (Website)
+-  Sunstrider
 -  SnowStormX
 -  MExtractor
 
