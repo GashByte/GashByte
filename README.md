@@ -1,22 +1,48 @@
 ![Header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&animation=fadeIn&section=header&text=M2tua1&fontSize=65)
 
-**creater of the MeseOTech Co. Ltd.**
+<div align="center">
 
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<h2 align="center">
+How I am?
+</h2>
 
-- 哦嘿，我的朋友 ~~，不妨让一切重新开始吧？~~
-- 让我做个自我介绍，你可以叫我卡氏，叫我小卡也不会建议的，你也可以叫我Matual
+My name is GashByte, also call me Azusa.
 
-## 关于我
-- 一个新人，掌握C#、JavaScript、Vue3/Vite、Java等语言
-- 我还在努力的学习很多！
+<p align="left">
+Based on China, Shanghai.
+<br/>
+I'm a free <strong>hair-lose-specialist</strong>. 🤣
+<br/>
+Currently engaged in <strong>leading technology</strong> development. 😎
+<br/>
+My life motto: <strong>Say what you say and do what you say; surpass yourself and pursue your limits</strong>. 😉
+<br/>
+<strong>有话就说，说到做到；超越自我，追求极限。</strong>
+</p>
 
-## 正在开发的项目
--  Sunstrider
--  SnowStormX
--  MExtractor
+<h3>
 
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gashbyte&count_private=true"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gashbyte"/>
-</a>
+>CEO of [Shanghai MeseOTech Co. Ltd.](https://www.meseotech.org)
+>
+> <img src="./public/MeseOC.png" height="256px;"/>
+>
+>Founder of [Sunstrider Project](https://www.meseotech.org/sunstrider)
+>
+> <img src="./public/SunstriderLogo-no-text-no-background.png" height="128px;"/>
+>
+>Founder of [SnowStormX Project](https://www.meseotech.org/snowstormx)
+>
+> <img src="./public/SnowStormXLogo-no-text-no-background.png" height="256px;"/>
+</h3>
+
+<br/>
+
+<div align="center">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GashByte&show_icons=true&locale=en&theme=github_dark&hide_border=true" alt="GashByte" /></p>
+</div>
+
+<div align="center">
+<p>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=GashByte&theme=github-dark-blue&hide_border=true" alt="Github streak" />
+</p>
+</div>
