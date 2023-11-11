@@ -3,7 +3,7 @@
 <div align="center">
 
 <h2 align="center">
-How I am?
+Who I am?
 </h2>
 
 My name is GashByte, also call me Azusa.
