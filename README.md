@@ -26,13 +26,7 @@ My life motto: <strong>Say what you say and do what you say; surpass yourself an
 >
 > <img src="./public/MeseOC.png" height="256px;"/>
 >
->Founder of [Sunstrider Project](https://www.meseotech.org/sunstrider)
->
-> <img src="./public/SunstriderLogo-no-text-no-background.png" height="128px;"/>
->
->Founder of [SnowStormX Project](https://www.meseotech.org/snowstormx)
->
-> <img src="./public/SnowStormXLogo-no-text-no-background.png" height="256px;"/>
+
 </h3>
 
 <br/>
